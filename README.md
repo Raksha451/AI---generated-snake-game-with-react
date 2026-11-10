@@ -34,20 +34,20 @@ This project also explores how AI-assisted development can support the creation 
 
 ## ✨ Features
 
-- 🐍 **Classic Snake Gameplay** — Control the snake and collect food.
-- 🎮 **Interactive Controls** — Play using the controls implemented in the application.
-- 📈 **Score Tracking** — Track your progress during gameplay.
-- ⚡ **Dynamic Game Updates** — Update the game state as the snake moves and food is collected.
-- ⚛️ **React-Based UI** — Build the interface using reusable React components.
-- 🤖 **AI-Assisted Development** — Explore the use of AI tools during development.
+- 🐍 **Classic Snake Gameplay** - Control the snake and collect food.
+- 🎮 **Interactive Controls** - Play using the controls implemented in the application.
+- 📈 **Score Tracking** - Track your progress during gameplay.
+- ⚡ **Dynamic Game Updates** - Update the game state as the snake moves and food is collected.
+- ⚛️ **React-Based UI** - Build the interface using reusable React components.
+- 🤖 **AI-Assisted Development** - Explore the use of AI tools during development.
 
 ## 🛠️ Tech Stack
 
-- **React** — UI development
-- **JavaScript** — Application and game logic
-- **HTML5** — Page structure
-- **CSS3** — Styling and layout
-- **Node.js and npm** — Development environment and package management
+- **React** - UI development
+- **JavaScript** - Application and game logic
+- **HTML5** - Page structure
+- **CSS3** - Styling and layout
+- **Node.js and npm** - Development environment and package management
 
 ## 🚀 Getting Started
 
