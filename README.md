@@ -49,6 +49,12 @@ This project also explores how AI-assisted development can support the creation 
 - **CSS3** - Styling and layout
 - **Node.js and npm** - Development environment and package management
 
+## Screenshots of Snake game
+<img width="1920" height="827" alt="Screenshot (933)" src="https://github.com/user-attachments/assets/dbe05fe5-fa70-4466-8940-8e0dbcebe6d3" />
+<img width="1879" height="849" alt="Screenshot (931)" src="https://github.com/user-attachments/assets/045a30ee-9139-4ab4-9dee-3ae89832d486" />
+<img width="1890" height="842" alt="Screenshot (929)" src="https://github.com/user-attachments/assets/1b5ea801-79bd-41c9-814e-28b3b4928006" />
+
+
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
